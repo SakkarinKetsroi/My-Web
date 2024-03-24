@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music List</title>
+    <link rel="shortcut icon" href="image/Music List Logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="login-container">
+        <h1 style="color: green;">
+            Music List
+  </h1>
+  <form id="Login-form">
+    <input type="email" id="email" name="email" placeholder="Email or Phone number" required>
+    <input type="password" id="password" name="password" placeholder="Password"> 
+    <button type="submit">Log In</button>
+    <div class="options">
+      <a href="#">Forgot Password?</a>  
+      <a href="#">Create New Account</a>
+    </div>
+  </form>
+    </div>
+
+
+
+</body>
+</html>
